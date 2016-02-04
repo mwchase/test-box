@@ -1,4 +1,5 @@
-# test-box
+test-box
+========
 Utilities for a testing workflow in Python
 
 I am unsure how generally useful this code is, but I've needed it twice, so I'm
